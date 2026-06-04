@@ -50,6 +50,18 @@
 
 此外，LucidWrite 可学习你历史文章的语气与风格，让 AI 真正成为你的**长期写作搭档**，而不只是一次性生成工具。
 
+
+
+<br/>
+
+## 🎬 产品截图
+
+<div align="center">
+  <img src="./screenshots/home.png" alt="LucidWrite 首页" width="100%" />
+  <br/>
+  <sub><b>本地运行的 AI 写作工作台 · 为严肃长内容创作者设计</b></sub>
+</div>
+
 <br/>
 
 ## 🪐 立即体验
