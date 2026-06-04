@@ -55,7 +55,7 @@
 ## 🎬 产品截图
 
 <div align="center">
-  <img src="./screenshots/home.png" alt="LucidWrite 首页" width="100%" />
+  <img src="./screenshots/home.jpg" alt="LucidWrite 首页" width="100%" />
   <br/>
   <sub><b>本地运行的 AI 写作工作台 · 为严肃长内容创作者设计</b></sub>
 </div>
